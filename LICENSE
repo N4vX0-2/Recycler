@@ -1,21 +1,111 @@
-MIT License
+Restricted MIT-Style License
+Legal Engagements Only | Non-Commercial | No Product Integration Without Express Permission
 
-Copyright (c) 2026 Jimmy M. 
+Copyright (c) 2026 Project Creator(s) and Contributors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+IMPORTANT NOTICE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This license is intentionally MIT-like in its warranty disclaimer and attribution structure, but it is NOT the standard MIT License. The standard MIT License permits broad commercial use, sublicensing, and sale. This license does not. Do not describe this project as "MIT licensed" or "open source under the MIT License." Describe it as "Restricted MIT-Style License - Legal Engagements Only" unless the copyright holder later replaces this license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. DEFINITIONS
+
+"Software" means this repository, including scripts, documentation, examples, configuration files, workflows, names, project structure, and any associated materials.
+
+"Creator(s)" means the original author(s), copyright holder(s), project maintainer(s), and authorized contributors of the Software.
+
+"Legal Engagement" means security testing, vulnerability assessment, penetration testing, red-team activity, audit work, training, lab work, research, or system administration performed only where the person or organization using the Software has valid authorization, lawful authority, and a legitimate defensive, educational, or administrative purpose.
+
+"Malicious Use" means any use that is unlawful, unauthorized, deceptive, harmful, coercive, or intended to compromise, disrupt, damage, surveil, extort, evade accountability, steal data, conceal unauthorized activity, or facilitate exploitation of systems, networks, accounts, services, or people without valid authorization.
+
+"Commercial Use" means selling, licensing, leasing, renting, monetizing, reselling, bundling, offering as a paid service, including in a paid product, including in a managed service, using as part of a revenue-generating platform, or otherwise using the Software for direct or indirect monetary gain, except for internal use by a legitimate security practitioner during a lawful client engagement where the Software is not sold, sublicensed, embedded, branded, marketed, or separately monetized.
+
+"Product Integration" means incorporating the Software, in whole or in part, into any commercial product, service, appliance, platform, toolchain, training product, software distribution, marketplace offering, managed security service, consulting deliverable template, or proprietary/internal product intended for distribution or monetization.
+
+2. PERMISSION GRANTED
+
+Subject to all terms in this license, permission is hereby granted, free of charge, to any person obtaining a copy of the Software to use, copy, study, modify, and distribute copies of the Software solely for Legal Engagements and non-commercial defensive, administrative, research, educational, or lab purposes.
+
+The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
+
+3. LEGAL AND AUTHORIZED USE ONLY
+
+The Software and all tools, workflows, wrappers, scripts, documentation, and techniques referenced by this repository are intended exclusively for lawful, authorized, ethical, and defensive security work.
+
+The Software is not built for, intended for, licensed for, or endorsed for Malicious Use. The Creator(s) do not condone, encourage, assist, approve of, or authorize unauthorized access, unauthorized testing, data theft, credential theft, persistence, stealth, evasion, ransomware, extortion, fraud, harassment, privacy invasion, sabotage, destructive activity, unlawful surveillance, unauthorized exploitation, or any other illegal or malicious activity.
+
+You are solely responsible for ensuring that your use of the Software is lawful in your jurisdiction and permitted by the systems, networks, data, accounts, and organizations involved. Before using the Software in any real environment, you must have clear authorization, a defined scope, and any legally required approvals.
+
+If there is any doubt about authorization, scope, ownership, consent, or legality, you must not use the Software until the issue is resolved in writing by the relevant authorized party.
+
+4. PROHIBITED USES
+
+You may not use the Software, or any modified version or derivative of it, for any of the following:
+
+a. unauthorized access to systems, networks, services, data, accounts, devices, or facilities;
+b. unauthorized vulnerability scanning, exploitation, credential collection, data collection, or persistence;
+c. concealing, laundering, destroying, or sanitizing evidence of unauthorized or malicious activity;
+d. evading detection, investigation, contractual duties, legal process, audit duties, or incident response;
+e. deploying, supporting, or enabling malware, ransomware, botnets, phishing, fraud, extortion, or abusive infrastructure;
+f. attacking, disrupting, damaging, or degrading systems, networks, services, or people;
+g. violating privacy, confidentiality, data protection, computer misuse, export control, sanctions, or cybercrime laws;
+h. implying that the Creator(s) endorse, approve, sponsor, or are affiliated with illegal, malicious, or unauthorized activity;
+i. using the Software in a way that is likely to harm the reputation, goodwill, or public standing of the Software, the Creator(s), contributors, or legitimate users.
+
+5. COMMERCIAL RESTRICTIONS
+
+The Software may not be sold, sublicensed, rented, leased, monetized, bundled into a paid offering, included in a commercial product, included in a managed service, or used as a marketed feature of any paid service or product without prior express written permission from the copyright holder.
+
+You may not incorporate the Software, in whole or in part, into any commercial or proprietary product, service, platform, appliance, distribution, marketplace offering, training package, or revenue-generating toolchain without prior express written permission from the copyright holder.
+
+Limited internal use during a lawful paid security engagement is allowed only when:
+a. the Software itself is not sold, licensed, sublicensed, marketed, or separately monetized;
+b. the Software is used only as an internal operational aid;
+c. the engagement is authorized and legal;
+d. the Software is not represented as the user's own product;
+e. all attribution, notices, and license terms remain intact.
+
+6. NO MISREPRESENTATION OR FALSE ASSOCIATION
+
+You may not remove attribution, misrepresent authorship, falsely claim ownership, falsely imply endorsement, falsely imply certification, or state or suggest that the Creator(s) support your use, your organization, your engagement, your product, your service, or your conduct unless the Creator(s) have given express written permission.
+
+You may not use the Software's name, the Creator(s)' names, contributor names, logos, repository identity, documentation, or related branding to promote illegal activity, malicious activity, unauthorized testing, commercial products, paid services, or derivative projects without express written permission.
+
+7. REPUTATIONAL HARM, MISUSE, AND CIVIL LIABILITY
+
+Unauthorized, malicious, deceptive, or unlawful use of the Software can harm the reputation, goodwill, professional standing, and public trust of the Software, the Creator(s), contributors, and legitimate users.
+
+By using, copying, modifying, distributing, or otherwise interacting with the Software, you agree that you are solely responsible for your conduct and for all consequences of your use. You agree to indemnify, defend, and hold harmless the Creator(s), contributors, maintainers, and legitimate distributors from and against any claims, damages, losses, liabilities, costs, attorney fees, regulatory actions, investigations, reputational harm, business interruption, or other consequences arising from your misuse, unlawful use, unauthorized use, malicious use, misrepresentation, false association, or breach of this license.
+
+If you use the Software in a way that falsely associates the Creator(s) or the Software with illegal, malicious, unauthorized, deceptive, or harmful activity, or if you make false or misleading statements about the Creator(s), the Software, its purpose, its authorization status, or its relationship to your conduct, you may be subject to civil claims and remedies. Depending on the facts and applicable law, these may include claims for defamation, false light, trade libel, commercial disparagement, unfair competition, tortious interference, breach of contract, indemnification, injunctive relief, damages, attorney fees, and other available remedies.
+
+Nothing in this license limits the Creator(s)' right to seek civil, equitable, statutory, contractual, or other remedies against any person or organization that misuses the Software, misrepresents the Software, damages its reputation, violates this license, or causes legal, financial, operational, or reputational harm.
+
+8. TERMINATION
+
+Any rights granted under this license terminate automatically and immediately if you violate any term of this license.
+
+After termination, you must stop using the Software, destroy all copies in your possession or control, remove it from any systems or repositories where you have placed it, and stop distributing any modified or derivative versions.
+
+Termination does not limit any rights or remedies available to the Creator(s), contributors, or affected parties for prior violations.
+
+9. THIRD-PARTY TOOLS AND LICENSES
+
+This repository may reference third-party tools, frameworks, commands, packages, documentation, or projects, including but not limited to penetration testing tools, Kali Linux tools, and the PenTesters Framework (PTF). Those third-party tools are not relicensed by this license.
+
+Each third-party tool remains governed by its own license, terms, documentation, acceptable-use rules, and legal restrictions. You are responsible for reviewing and complying with all third-party licenses and applicable laws.
+
+10. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, LEGALITY OF USE, NON-INFRINGEMENT, SECURITY, RELIABILITY, ACCURACY, OR FITNESS FOR ANY PARTICULAR ENGAGEMENT.
+
+The Creator(s) do not warrant that the Software will securely delete data, satisfy contractual requirements, satisfy regulatory requirements, prevent data retention, prevent forensic recovery, prevent misuse, operate without error, or be suitable for any specific environment.
+
+11. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE CREATOR(S), COPYRIGHT HOLDER(S), CONTRIBUTORS, MAINTAINERS, OR DISTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, LOSSES, PENALTIES, FINES, LIABILITIES, COSTS, ATTORNEY FEES, OR OTHER CONSEQUENCES ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE, MISUSE, INABILITY TO USE, DISTRIBUTION, MODIFICATION, OR PERFORMANCE OF THE SOFTWARE, WHETHER IN AN ACTION OF CONTRACT, TORT, STATUTE, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE.
+
+12. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this license are reserved by the copyright holder.
+
+No permission is granted for commercial exploitation, product integration, sublicensing, sale, trademark use, branding use, endorsement claims, malicious use, unlawful use, unauthorized testing, or any use outside Legal Engagements and lawful non-commercial defensive, educational, research, administrative, or lab purposes.
